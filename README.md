@@ -15,8 +15,7 @@ Features
 - Text is cleared on game start and lobby return
 - Configurable text color and window skin via BepInEx config
 
-Known issues
-- Zooming with ? and backtick still works while the notepad is open. As a workaround, you can disable zoom in the lobby settings before starting a game.
+
 
 Requirements
 - Town of Us Mira
